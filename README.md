@@ -27,3 +27,5 @@ Buat notebook baru atau gunakan notebook yang ada.
 Salin dan tempelkan kode dari file Python yang disediakan ke dalam sel kode di Google Colab.
 Jalankan setiap sel kode secara berurutan untuk memuat data, melatih model, melakukan prediksi, dan mengevaluasi hasilnya.
 Lihat hasil prediksi biaya advertising untuk target penjualan 50, 100, dan 150 juta dolar.
+
+![Uploading image.png…]()
